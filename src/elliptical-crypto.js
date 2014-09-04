@@ -1,12 +1,8 @@
 
 /*
  * =============================================================
- * elliptical.crypto.base64 v0.9.1
+ * elliptical.crypto.base64
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
  *
  */
 
@@ -180,12 +176,8 @@
 
 /*
  * =============================================================
- * elliptical.crypto v0.9.1
+ * elliptical.crypto
  * =============================================================
- * Copyright (c) 2014 S.Francis, MIS Interactive
- * Licensed MIT
- *
- * Dependencies:
  *
  */
 
